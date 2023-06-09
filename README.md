@@ -1,6 +1,14 @@
+<img align="right" width="250px" style="margin-top:-20px" src="avatar-perfil.svg">
+
+</br>
+</br>
+
 ## Bem-vind@ ao meu perfil! 👋
 
 Olá! Me chamo Kawan Peter, sou um aprendiz de desenvolvimento Front-end com especialidade em HTML, CSS e JavaScript. Sou formado em Análise e Desenvolvimento de Sistemas desde 2022 e atualmente sigo estudando em busca da primeira oportunidade para atuar como desenvolvedor profissionalmente.
+
+</br>
+</br>
 
 <div align="center">
 <a href="https://github.com/KawanPeter">
