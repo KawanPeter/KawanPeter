@@ -1,7 +1,7 @@
 ## Bem-vind@ ao meu perfil! 👋
 
 Olá! Me chamo Kawan Peter, sou um aprendiz de desenvolvimento Front-end com especialidade em HTML, CSS e JavaScript. </br>
-Sou formado em Análise e Desenvolvimento de Sistemas desde 2022 e atualmente sigo estudando em busca da primeira oportunidade para atuar como desenvolvedor profissionalmente.
+Sou formado em Análise e Desenvolvimento de Sistemas desde 2022.
 
 </br>
 </br>
